@@ -1,0 +1,32 @@
+{
+    "favorites.resources": [
+        {
+            "filePath": "Migration Scripts\\ExportApplications.ps1",
+            "group": "Default"
+        },
+        {
+            "filePath": "Migration Scripts\\ImportApplicationsFromAppGroups.ps1",
+            "group": "Default"
+        },
+        {
+            "filePath": ".vscode\\settings.json",
+            "group": "Default"
+        },
+        {
+            "filePath": ".vscode",
+            "group": "Default"
+        },
+        {
+            "filePath": "Migration Scripts",
+            "group": "Default"
+        },
+        {
+            "filePath": "ADC Config Builder",
+            "group": "Default"
+        },
+        {
+            "filePath": "Migration Scripts\\ImportAppFolderStructure.ps1",
+            "group": "Default"
+        }
+    ]
+}
